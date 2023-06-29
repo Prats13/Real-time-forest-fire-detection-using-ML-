@@ -58,3 +58,8 @@ We have used decision tree algorithms which gives more accuracy for less data
  
 Among these machine learning models extra tree regression give best accuracy so we have implemented it in our application
 # Screenshots of Implementation
+this is a screenshot of the webpage created.
+![image](https://github.com/Prats13/Real-time-forest-fire-detection-using-ML-/assets/93511663/7cf2729e-e1d8-4397-a8c1-54a07ca7823c)
+this is a screenshot of the email recieved during high alerts of forest fire. Since now the chances of the particular forest is nil we have hardcoded it to high so that we recieve the email.
+![image](https://github.com/Prats13/Real-time-forest-fire-detection-using-ML-/assets/93511663/d58499f1-b55e-4bf4-b94f-ab16c936ca4c)
+
