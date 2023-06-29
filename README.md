@@ -58,3 +58,4 @@ We have used decision tree algorithms which gives more accuracy for less data
  
 Among these machine learning models extra tree regression give best accuracy so we have implemented it in our application
 # Screenshots of Implementation
+
